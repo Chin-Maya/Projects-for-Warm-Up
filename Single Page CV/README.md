@@ -4,6 +4,7 @@ This is my single-page CV (Curriculum Vitae).
 
 This folder contains a single-page CV built with HTML.
 
+## [Live Demo](https://chin-maya.github.io/Projects-for-Warm-Up/Single Page CV)
 ## File
 
 - **index.html**  
