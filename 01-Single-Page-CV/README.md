@@ -5,6 +5,8 @@ This is my single-page CV (Curriculum Vitae).
 This folder contains a single-page CV built with HTML.
 
 ## [Live Demo](https://chin-maya.github.io/Projects-for-Warm-Up/01-Single-Page-CV)
+This is solution of [this project](https://roadmap.sh/projects/single-page-cv) from [roadmaps.sh](https://roadmap.sh/projects/single-page-cv).
+
 ## File
 
 - **index.html**  
@@ -21,9 +23,11 @@ This folder contains a single-page CV built with HTML.
 - Clean, single-page design
 - Non-Responsive layout
 - Easy to customize
+- Semantic HTML: Use appropriate HTML tags to structure your CV.
+- SEO Meta Tags: Include essential meta tags for SEO.
+- Open Graph (OG) Tags: Add OG tags for better social media sharing.
+- Favicon: Add a favicon for your CV page.
 
 ---
 
 Feel free to modify `index.html` to update your information or change the design.
-
-This is one of the solution of [this project](https://roadmap.sh/projects/single-page-cv) from [roadmaps.sh](https://roadmap.sh/projects/single-page-cv).
