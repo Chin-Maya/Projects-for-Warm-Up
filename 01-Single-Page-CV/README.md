@@ -26,4 +26,4 @@ This folder contains a single-page CV built with HTML.
 
 Feel free to modify `index.html` to update your information or change the design.
 
-This project is one of the solution of [roadmaps.sh](https://roadmap.sh/projects/single-page-cv).
+This is one of the solution of [this project](https://roadmap.sh/projects/single-page-cv) from [roadmaps.sh](https://roadmap.sh/projects/single-page-cv).
