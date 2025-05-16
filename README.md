@@ -1,7 +1,8 @@
-# Projects-for-Warm-Up
-These are projects for simple warm up or practice before going to work on some serious ones
+# Roadmaps.sh Solutions
+Solutions for the projects from roadmaps.sh
 
 ## [roadmaps.sh](https://roadmap.sh/) Projects
+### Frontend Projects
 Roadmap.sh URL(s) of projects:
 1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 
